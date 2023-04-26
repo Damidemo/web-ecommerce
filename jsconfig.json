@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "target": "ES2020",
+        "jsx": "preserve",
+        "strictNullChecks": true,
+        "strictFunctionTypes": true
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*"
+    ]
+}
+
+//document.getElementById("btn_menu").addEventListener("click, mostrar_menu");
+//navbar = document.getElementById("navbar");
+//background_menu.getElementById("back_menu");
+//function animateBars(){
+//    line1_bar.classList.toggle("activeline-bar-1");
+//    line2_bar.classList.toggle("activeline-bar-2");
+//    line3_bar.classList.toggle("activeline-bar-3");
+//} 
+
+//function mostrar_menu(){
+//    navbar.style.left = "0px";
+//}
